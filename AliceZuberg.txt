@@ -1,0 +1,122 @@
+New Update V 10
+
+- Pembersihan Module Yang Tidak Terpakai
+- Merapihkan Script
+- Meringankan Script
+- Penambahan Detected Autodelete Jika Ada Yang Tagsw Di Group Chat
+- Mew Welcome && Left Button Old No Audio
+- Mengganti Letak Menu Dari Alice.js Ke ./AliceLibray/AliceMenu.js
+
+- Mengubah Message Script Dari Client Menjadi Alice
+Contoh:
+client.sendMessage → Alice.sendMessage
+
+//--------------------------------------------------------------------\\
+
+Penambahan Fitur :
+
+— Tools Features
+Tocode 
+Txt2anime
+Txt2ghibli
+Txt2pixel
+Reactch
+Getinfoch
+Getinfogc
+Ccgen
+Sharetext
+Spamtag
+Stopspam
+Codegen
+Nulis
+Ceklinkgc
+Wastalk
+Removebg
+Texttonote
+
+— Search Features
+Spotify
+Yahooimg
+Cuaca
+Kuronime
+Myanimelist
+Nontonanime-Search
+Nontonanime-upcoming
+Nontonanime-latest
+Animexin
+Resepsearch
+Jkt48news
+Alkitab
+Jadwaltv
+Hentais
+Waifu
+
+— Convert Features
+Morse
+Shortlink
+Quoteimg
+
+— Premium Features
+Telegramstalk
+
+— Downloader Features
+Facebook
+Shortlink-dl
+Nontonanime-download
+Nontonanime-Detail
+Resepdownload
+Duoyindl
+
+— Ai Features
+Velynai
+Gemmaai
+Aliceai
+Magicstudio
+Feloai
+Editai
+Yupraai
+Writecream
+
+— Game Features
+Suitbot
+Patroli
+
+— Group Features
+Cekasalmember
+
+— Berita Features
+Metrotv
+
+— Islami Features
+Ayat
+
+— Bugmenu ( New Menu )
+X-spam
+X-hama
+X-maker
+X-vixiv
+X-vision
+//--------------------------------------------------------------------\\
+
+Penghapusan Fitur :
+- resep
+- bolanet
+- waifu
+- loli
+- gsm
+- Menghapus Fitur Ai-Rimuru Dikarenakan Ai Atau Website Ai Sudah Tidak Bisa Digunakan Kembali
+
+//--------------------------------------------------------------------\\
+
+Perbaikan Fitur :
+- Hdvid ( Premium Features )
+- Jarak ( Main Features )
+- Ytmp4 ( Downloader Features )
+- Ytmp3 ( Downloader Features )
+- Mediafire ( Downloader Features )
+
+//--------------------------------------------------------------------\\
+
+
+Powered By Alice Asistent
+© XyrooRynzz 2025

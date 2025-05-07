@@ -1,0 +1,14 @@
+[
+  {
+    "produk": 2,
+    "nama": "script alicia v2",
+    "harga": 40,
+    "stok": 4
+  },
+  {
+    "produk": 3,
+    "nama": "tes",
+    "harga": 1000,
+    "stok": 1
+  }
+]

@@ -1,0 +1,38 @@
+//————————————————————————//
+
+/*
+
+Alice Asistent
+© XyrooRynzz
+2022 - 2026
+
+Source
+WhatsApp Me : 6281543496975
+Tele me : t.me/XyrooRynzz
+instagram : xyroorynzz
+https://chat.whatsapp.com/IJx5bkPvivUCeai7d2ChRC
+https://whatsapp.com/channel/0029VamvtL2ADTO7ikBeNe1E
+
+*/
+
+//————————————————————————//
+
+
+Command Step By Step Buat Run Termux
+
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+pkg install yarn
+termux-setup-storage
+cd /sdcard
+cd ( folder name )
+yarn install
+npm start
